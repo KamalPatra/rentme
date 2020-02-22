@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "887725145584",
+    "firebase_url": "https://rentme-fe9f8.firebaseio.com",
+    "project_id": "rentme-fe9f8",
+    "storage_bucket": "rentme-fe9f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887725145584:android:3c9040411c2073f9",
+        "android_client_info": {
+          "package_name": "com.example.rent_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887725145584-6i20h48e79dph1d9dqv71at5159g93e6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rent_me",
+            "certificate_hash": "ef35f707b46b992bd4009223899b5be9a75c053d"
+          }
+        },
+        {
+          "client_id": "887725145584-p1pnr9hfmrgs888h8molta7col5t4snf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDth5jV64-VsdEhzPFV4ugwF0g9wHE9N14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887725145584-p1pnr9hfmrgs888h8molta7col5t4snf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "887725145584-iheh455n1tfs4vfdg3o8rr7rjk5tpbme.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rentMe"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
